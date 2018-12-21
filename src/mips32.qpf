@@ -1,0 +1,6 @@
+DATE = "11:53:34 December 20, 2018"
+QUARTUS_VERSION = "16.0.2"
+
+# Revisions
+
+PROJECT_REVISION = "mips32"
